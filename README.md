@@ -22,4 +22,3 @@
 
 ---
 
-Need badges, install instructions, or a demo GIF added too? I can extend it!
