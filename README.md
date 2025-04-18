@@ -22,3 +22,6 @@
 
 ---
 
+<a href="https://heroku.com/deploy?template=https://github.com/darkdev-tech/INFINIX-XD.git">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" style="background-color: black; color: blue; padding: 10px; border-radius: 5px;">
+</a>
